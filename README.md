@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/ResNet-101-red.svg)](https://example.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Dataset](https://img.shields.io/badge/Dataset-Your%20Link-4285F4.svg?logo=googledrive&logoColor=white)](https://example.com)
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-4285F4.svg?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xU24ulsjo5fBjQbofMpXyseOV7X5jnhn?usp=sharing)
 
 
 An Interpretable Deep Learning Framework for Tongue Diagnosis: From Spatial Localization to Feature–Organ Association
