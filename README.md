@@ -45,6 +45,34 @@ A PyTorch-based open-source toolkit for AI-assisted TCM tongue diagnosis, suppor
 - Python 3.13.11
 - CUDA 12.9 compatible GPU (recommended)
 
+### Setup
+
+```bash
+# Clone repository
+git clone https://github.com/3xiaoshayu/TCM-TongueNet.git
+cd TCM-TongueNet
+
+# Install dependencies
+pip install torch torchvision opencv-python pandas numpy scipy matplotlib seaborn pillow scikit-learn pytorch-grad-cam
+```
+
+**Key Dependencies:**
+```txt
+torch>=1.12.0
+torchvision>=0.13.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+Pillow>=9.0.0
+scikit-learn>=1.0.0
+pytorch-grad-cam>=1.4.0
+```
+
+---
+
 ## Usage Rules
 
 This project is open-sourced under the MIT License. You can freely use, modify, and distribute the code for academic and non-commercial research purposes.
