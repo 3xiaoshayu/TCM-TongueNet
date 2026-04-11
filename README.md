@@ -42,8 +42,8 @@ A PyTorch-based open-source toolkit for AI-assisted TCM tongue diagnosis, suppor
 ## Installation
 
 ### Prerequisites
-- Python 3.13
-- CUDA 12.x compatible GPU (recommended)
+- Python 3.13.11
+- CUDA 12.9 compatible GPU (recommended)
 
 ## Usage Rules
 
