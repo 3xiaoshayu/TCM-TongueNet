@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="tougue.png" alt="tougue" width="150" />
+  <img src="tongue.png" alt="tongue" width="150" />
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
