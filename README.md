@@ -34,18 +34,18 @@ A PyTorch-based open-source toolkit for AI-assisted TCM tongue diagnosis, suppor
 ```
 ├── scripts/                    
 │
-├── split_dataset.py             # Dataset deduplication & re-split
-├── train_5class_zangfu.py       # 5-organ classification training
-├── inference.py                 # Batch inference & evaluation plots
-├── adaptive_segmentation.py     # Heatmap-based tongue region segmentation
-├── gradcam_visualization.py     # Grad-CAM heatmap visualization
-├── region_quanification.py      # Region attention & TCM consistency
-├── train_13class_zangfu_tongue.py # 13-class (tongue + organs) training
-├── generate_all_maps.py         # Save feature & CAM maps to .npz
-├── attention_matrix_from_image.py   # Attention matrix from images (MLP)
-├── attention_matrix_from_path.py    # Attention matrix from CSV data
-├── consistency_analysis_importance_matching.py  # Importance matching score
-└── consistency_analysis_weighted_fusion.py     # Weighted fusion consistency
+├── split_dataset.py                                # Dataset deduplication & re-split
+├── train_5class_zangfu.py                          # 5-organ classification training
+├── inference.py                                    # Batch inference & evaluation plots
+├── adaptive_segmentation.py                        # Heatmap-based tongue region segmentation
+├── gradcam_visualization.py                        # Grad-CAM heatmap visualization
+├── region_quanification.py                         # Region attention & TCM consistency
+├── train_13class_zangfu_tongue.py                  # 13-class (tongue + organs) training
+├── generate_all_maps.py                            # Save feature & CAM maps to .npz
+├── attention_matrix_from_image.py                  # Attention matrix from images (MLP)
+├── attention_matrix_from_path.py                   # Attention matrix from CSV data
+├── consistency_analysis_importance_matching.py     # Importance matching score
+└── consistency_analysis_weighted_fusion.py         # Weighted fusion consistency
 ```
 
 ---
