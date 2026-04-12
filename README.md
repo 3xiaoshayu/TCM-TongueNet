@@ -115,14 +115,6 @@ If you use this project in your research or publications, please cite this repos
 - The authors are not responsible for any medical or clinical use of this project; it is designed for research only, not for clinical diagnosis or treatment.
 ---
 
-## Acknowledgments
-
-This work was supported by:
-- **Natural Science Foundation of Shandong Province** (Grant No. ZR2024QF228, ZR2024QA176)
-- **National Natural Science Foundation of China** (Grant No. 82301666)
-
----
-
 ## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
