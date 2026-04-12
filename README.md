@@ -9,9 +9,7 @@
   <img src="tongue.png" alt="tongue" width="150" />
 </p>
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/ResNet-101-red.svg)](https://example.com)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 
 
 An Interpretable Deep Learning Framework for Tongue Diagnosis: From Spatial Localization to Feature–Organ Association
@@ -117,13 +115,5 @@ This work was supported by:
 ## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## Contact
-
-- **Corresponding Author**: Xiaoqing Han (hanxiaoqing@sdsmu.edu.cn)
-- **Institution**: Shandong Second Medical University
-- **Issues**: [GitHub Issues](https://github.com/HeanLiu/Worm-PostureNet/issues)
 
 ---
