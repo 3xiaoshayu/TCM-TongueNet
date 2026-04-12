@@ -92,6 +92,17 @@ pytorch-grad-cam>=1.4.0
 
 ---
 
+## Dataset
+
+The tongue image datasets and clinical metadata used in this study were obtained from publicly available sources in previously published peer‑reviewed studies, following formal data access requests and ethical approval.  
+All raw data are hosted and maintained by the original dataset owners.  
+**Please refer to the official repository for access, license terms, and citation requirements:**  
+👉 [https://github.com/tonguedx/tonguedx](https://github.com/tonguedx/tonguedx)
+
+De‑identified processed data used in this work can be made available from the corresponding author upon reasonable request, subject to completion of a formal data sharing agreement.
+
+---
+
 ## Usage Rules
 
 This project is open-sourced under the MIT License. You can freely use, modify, and distribute the code for academic and non-commercial research purposes.
