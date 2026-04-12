@@ -12,7 +12,6 @@
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/ResNet-101-red.svg)](https://example.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-4285F4.svg?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1xU24ulsjo5fBjQbofMpXyseOV7X5jnhn?usp=sharing)
 
 
 An Interpretable Deep Learning Framework for Tongue Diagnosis: From Spatial Localization to Feature–Organ Association
@@ -34,18 +33,19 @@ A PyTorch-based open-source toolkit for AI-assisted TCM tongue diagnosis, suppor
 ```
 ├── scripts/                    
 │
-├── split_dataset.py                                # Dataset deduplication & re-split
-├── train_5class_zangfu.py                          # 5-organ classification training
-├── inference.py                                    # Batch inference & evaluation plots
-├── adaptive_segmentation.py                        # Heatmap-based tongue region segmentation
-├── gradcam_visualization.py                        # Grad-CAM heatmap visualization
-├── region_quanification.py                         # Region attention & TCM consistency
-├── train_13class_zangfu_tongue.py                  # 13-class (tongue + organs) training
-├── generate_all_maps.py                            # Save feature & CAM maps to .npz
-├── attention_matrix_from_image.py                  # Attention matrix from images (MLP)
-├── attention_matrix_from_path.py                   # Attention matrix from CSV data
-├── consistency_analysis_importance_matching.py     # Importance matching score
-└── consistency_analysis_weighted_fusion.py         # Weighted fusion consistency
+├── split_dataset.py                               
+├── train_5class_zangfu.py                      
+├── inference.py                            
+├── adaptive_segmentation.py                       
+├── gradcam_visualization.py                       
+├── region_quanification.py                       
+├── train_13class_zangfu_tongue.py            
+├── generate_all_maps.py                            
+├── attention_matrix_from_image.py                  
+├── attention_matrix_from_path.py                  
+├── consistency_analysis_importance_matching.py     
+└── consistency_analysis_weighted_fusion.py         
+
 ```
 
 ---
